@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Design patterns with Java<br>💬 Ask me about Backend, Django and express<br>⚡ Fun fact you need experience to get hired
+<br>🌱 I’m currently learning Design patterns with Java<br>💬 Ask me about Backend, Django and express<br>⚡ Fun fact: you need experience to get hired
 
 
 ## 🌐 Socials:
